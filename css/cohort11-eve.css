@@ -1,0 +1,25 @@
+.odd{
+    background-color: brown;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+#aquah1{
+    color:aqua;
+    
+}
+h1,p{
+    text-align: center;
+    color: aqua;
+}
+#firstheading{
+    color: red;
+    font-style: oblique;
+}
+#first-paragraph{
+    color: blue;
+    font-style: initial;
+    margin: 20px;
+    padding: 1em;
+}
